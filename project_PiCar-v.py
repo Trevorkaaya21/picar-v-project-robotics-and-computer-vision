@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CSC 485 Final Project - FINAL VERSION
+Computer Vision and Robotics - PiCar-V
 Author: Trevor Kkaaya
 """
 
